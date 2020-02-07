@@ -11,7 +11,7 @@ const global = {
         eleme: true
     },
     data: {
-        china_telecom: "" //此处输入要签到的手机号码,半角双引号中间
+        china_telecom: "17339854468" //此处输入要签到的手机号码,半角双引号中间
     }
 }
 
